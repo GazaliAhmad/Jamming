@@ -1,5 +1,6 @@
 const clientId = '01a93b5d7b7b4a4998c460f1ec402b1b';
-const redirect_uri = 'http://localhost:3000/callback';
+// const redirect_uri = 'http://localhost:3000/callback';
+const redirect_uri = 'https://jamming-spot-react.netlify.app/'
 let accessToken;
 
 const Spotify = {
